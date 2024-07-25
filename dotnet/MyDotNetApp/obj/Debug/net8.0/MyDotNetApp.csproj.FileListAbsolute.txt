@@ -1,0 +1,5 @@
+/Users/niraj/Desktop/dotnet/MyDotNetApp/obj/Debug/net8.0/MyDotNetApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/niraj/Desktop/dotnet/MyDotNetApp/obj/Debug/net8.0/MyDotNetApp.AssemblyInfoInputs.cache
+/Users/niraj/Desktop/dotnet/MyDotNetApp/obj/Debug/net8.0/MyDotNetApp.AssemblyInfo.cs
+/Users/niraj/Desktop/dotnet/MyDotNetApp/obj/Debug/net8.0/MyDotNetApp.csproj.CoreCompileInputs.cache
+/Users/niraj/Desktop/dotnet/MyDotNetApp/obj/Debug/net8.0/MyDotNetApp.sourcelink.json

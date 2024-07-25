@@ -1,0 +1,14 @@
+/Users/niraj/Desktop/dotnet/HelloWorld/bin/Debug/net8.0/HelloWorld
+/Users/niraj/Desktop/dotnet/HelloWorld/bin/Debug/net8.0/HelloWorld.deps.json
+/Users/niraj/Desktop/dotnet/HelloWorld/bin/Debug/net8.0/HelloWorld.runtimeconfig.json
+/Users/niraj/Desktop/dotnet/HelloWorld/bin/Debug/net8.0/HelloWorld.dll
+/Users/niraj/Desktop/dotnet/HelloWorld/bin/Debug/net8.0/HelloWorld.pdb
+/Users/niraj/Desktop/dotnet/HelloWorld/obj/Debug/net8.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/niraj/Desktop/dotnet/HelloWorld/obj/Debug/net8.0/HelloWorld.AssemblyInfoInputs.cache
+/Users/niraj/Desktop/dotnet/HelloWorld/obj/Debug/net8.0/HelloWorld.AssemblyInfo.cs
+/Users/niraj/Desktop/dotnet/HelloWorld/obj/Debug/net8.0/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/niraj/Desktop/dotnet/HelloWorld/obj/Debug/net8.0/HelloWorld.dll
+/Users/niraj/Desktop/dotnet/HelloWorld/obj/Debug/net8.0/refint/HelloWorld.dll
+/Users/niraj/Desktop/dotnet/HelloWorld/obj/Debug/net8.0/HelloWorld.pdb
+/Users/niraj/Desktop/dotnet/HelloWorld/obj/Debug/net8.0/HelloWorld.genruntimeconfig.cache
+/Users/niraj/Desktop/dotnet/HelloWorld/obj/Debug/net8.0/ref/HelloWorld.dll

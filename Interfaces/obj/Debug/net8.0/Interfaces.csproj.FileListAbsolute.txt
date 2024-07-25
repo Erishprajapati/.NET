@@ -1,0 +1,15 @@
+/Users/niraj/Desktop/dotnet/Interfaces/obj/Debug/net8.0/Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+/Users/niraj/Desktop/dotnet/Interfaces/obj/Debug/net8.0/Interfaces.AssemblyInfoInputs.cache
+/Users/niraj/Desktop/dotnet/Interfaces/obj/Debug/net8.0/Interfaces.AssemblyInfo.cs
+/Users/niraj/Desktop/dotnet/Interfaces/obj/Debug/net8.0/Interfaces.csproj.CoreCompileInputs.cache
+/Users/niraj/Desktop/dotnet/Interfaces/obj/Debug/net8.0/Interfaces.sourcelink.json
+/Users/niraj/Desktop/dotnet/Interfaces/bin/Debug/net8.0/Interfaces
+/Users/niraj/Desktop/dotnet/Interfaces/bin/Debug/net8.0/Interfaces.deps.json
+/Users/niraj/Desktop/dotnet/Interfaces/bin/Debug/net8.0/Interfaces.runtimeconfig.json
+/Users/niraj/Desktop/dotnet/Interfaces/bin/Debug/net8.0/Interfaces.dll
+/Users/niraj/Desktop/dotnet/Interfaces/bin/Debug/net8.0/Interfaces.pdb
+/Users/niraj/Desktop/dotnet/Interfaces/obj/Debug/net8.0/Interfaces.dll
+/Users/niraj/Desktop/dotnet/Interfaces/obj/Debug/net8.0/refint/Interfaces.dll
+/Users/niraj/Desktop/dotnet/Interfaces/obj/Debug/net8.0/Interfaces.pdb
+/Users/niraj/Desktop/dotnet/Interfaces/obj/Debug/net8.0/Interfaces.genruntimeconfig.cache
+/Users/niraj/Desktop/dotnet/Interfaces/obj/Debug/net8.0/ref/Interfaces.dll

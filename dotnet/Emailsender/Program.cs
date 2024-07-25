@@ -1,34 +1,44 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
 
-using system;
+// See https://aka.ms/new-console-template for more information
+using System;
 using System.Collections.Generic;
-public interface IMessageSender
+
+public interface IPaymentProcessor
 {
-    void SendMessage(string message);`
+    void SendMessage(string message);
 }
 
-public class EmailSender : IMessageSender
+public class CreditCardPaymentPocessor : IPaymentProcessor
 {
     public void SendMessage(string message)
     {
-        Console.WriteLine($"Sending email with message: {message}");
+        Console.WriteLine($"Sending credit payment message: {message}");
     }
 }
 
-public class SmsSender : IMessageSender
+public class PaypalPaymentProcessor : IPaymentProcessor
 {
     public void SendMessage(string message)
     {
-        Console.WriteLine($"Sending SMS with message: {message}");
+        Console.WriteLine($"Sending paypal payment message: {message}");
+    }
+}
+
+public class BitcoinPaymentProcessor : IPaymentProcessor
+{
+    public void SendMessage(string message)
+    {
+        Console.WriteLine($"Sending bitcoin payment message: {message}"); // Corrected 'console' to 'Console'
     }
 }
 
 public class MessageService
 {
-    private IMessageSender _messageSender;
+    private IPaymentProcessor _messageSender;
 
-    public MessageService(IMessageSender messageSender)
+    public MessageService(IPaymentProcessor messageSender)
     {
         _messageSender = messageSender;
     }
@@ -43,10 +53,11 @@ class Program
 {
     static void Main(string[] args)
     {
-        List<IMessageSender> messageSenders = new List<IMessageSender>
+        List<IPaymentProcessor> messageSenders = new List<IPaymentProcessor>
         {
-            new EmailSender(),
-            new SmsSender()
+            new CreditCardPaymentPocessor(),
+            new PaypalPaymentProcessor(),
+            new BitcoinPaymentProcessor()
         };
 
         foreach (var sender in messageSenders)

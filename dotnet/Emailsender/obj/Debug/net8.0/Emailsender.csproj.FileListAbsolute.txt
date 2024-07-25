@@ -1,0 +1,15 @@
+/Users/niraj/Desktop/dotnet/Emailsender/obj/Debug/net8.0/Emailsender.GeneratedMSBuildEditorConfig.editorconfig
+/Users/niraj/Desktop/dotnet/Emailsender/obj/Debug/net8.0/Emailsender.AssemblyInfoInputs.cache
+/Users/niraj/Desktop/dotnet/Emailsender/obj/Debug/net8.0/Emailsender.AssemblyInfo.cs
+/Users/niraj/Desktop/dotnet/Emailsender/obj/Debug/net8.0/Emailsender.csproj.CoreCompileInputs.cache
+/Users/niraj/Desktop/dotnet/Emailsender/obj/Debug/net8.0/Emailsender.sourcelink.json
+/Users/niraj/Desktop/dotnet/Emailsender/bin/Debug/net8.0/Emailsender
+/Users/niraj/Desktop/dotnet/Emailsender/bin/Debug/net8.0/Emailsender.deps.json
+/Users/niraj/Desktop/dotnet/Emailsender/bin/Debug/net8.0/Emailsender.runtimeconfig.json
+/Users/niraj/Desktop/dotnet/Emailsender/bin/Debug/net8.0/Emailsender.dll
+/Users/niraj/Desktop/dotnet/Emailsender/bin/Debug/net8.0/Emailsender.pdb
+/Users/niraj/Desktop/dotnet/Emailsender/obj/Debug/net8.0/Emailsender.dll
+/Users/niraj/Desktop/dotnet/Emailsender/obj/Debug/net8.0/refint/Emailsender.dll
+/Users/niraj/Desktop/dotnet/Emailsender/obj/Debug/net8.0/Emailsender.pdb
+/Users/niraj/Desktop/dotnet/Emailsender/obj/Debug/net8.0/Emailsender.genruntimeconfig.cache
+/Users/niraj/Desktop/dotnet/Emailsender/obj/Debug/net8.0/ref/Emailsender.dll

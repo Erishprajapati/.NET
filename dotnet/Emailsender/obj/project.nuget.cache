@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ASsElpFmqIU=",
+  "dgSpecHash": "PrFyCSvExyU=",
   "success": true,
-  "projectFilePath": "/Users/niraj/Desktop/dotnet/Interfaces/Emailsender/Emailsender.csproj",
+  "projectFilePath": "/Users/niraj/Desktop/dotnet/Emailsender/Emailsender.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

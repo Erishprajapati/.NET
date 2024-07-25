@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/niraj/Desktop/dotnet/Interfaces/Emailsender/Emailsender.csproj",
+      "projectUniqueName": "/Users/niraj/Desktop/dotnet/Emailsender/Emailsender.csproj",
       "projectName": "Emailsender",
-      "projectPath": "/Users/niraj/Desktop/dotnet/Interfaces/Emailsender/Emailsender.csproj",
+      "projectPath": "/Users/niraj/Desktop/dotnet/Emailsender/Emailsender.csproj",
       "packagesPath": "/Users/niraj/.nuget/packages/",
-      "outputPath": "/Users/niraj/Desktop/dotnet/Interfaces/Emailsender/obj/",
+      "outputPath": "/Users/niraj/Desktop/dotnet/Emailsender/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/niraj/.nuget/NuGet/NuGet.Config"
